@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{BDBCE7D3-139D-3EDB-816D-FB1D73476D25}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4a1741f8-07c4-4f2e-b850-bb764c07954c" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SphereLauncher.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SphereLauncher.cs" Line="74" Column="6" />
+      <File FileName="Assets/Scripts/SphereMix.cs" Line="23" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="SphereLauncher.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
