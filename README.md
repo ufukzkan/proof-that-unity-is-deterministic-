@@ -15,3 +15,4 @@ While we can state that Unity's physics engine, NVIDIA PhysX, is theoretically d
 Unity generally provides acceptable deterministic behavior for an average game, but it's important to remember that variations can still occur in certain situations. I wanted to illustrate that the path taken by spheres launched from a Sphere Launcher is not deterministic.
 
   
+![Uploading WhatsApp Video 2023-11-07 at 00.07.55.gif…]()
